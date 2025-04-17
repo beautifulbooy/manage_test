@@ -7,7 +7,7 @@ public class UserManager {
     private Map<String, User> users = new HashMap<>();
 
     public void addUser(User user) {
-        users.put("id:"+user.getId(), user);
+        users.put(user.getId(), user);
     }
 
     public User getUser(String id) {
