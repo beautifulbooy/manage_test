@@ -36,7 +36,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.UserManager</mainClass> <!-- 替换为实际主类 -->
+                            <mainClass>com.example.UserManager</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
